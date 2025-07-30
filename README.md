@@ -2,7 +2,7 @@
 
 This project is a full-stack **Car Showroom Website** developed as part of our final year diploma in **Computer Engineering** at *Karmaveer Bhaurao Patil Polytechnic, Satara*. The system is built to assist customers in exploring and purchasing **TATA cars and car parts** through an interactive, responsive, and user-friendly web interface.
 
-## Developer Team Members
+## Developer 
 - Bhosale Shravani Sandip
 
 ##  Project Features
